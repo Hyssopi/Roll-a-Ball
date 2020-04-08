@@ -13,7 +13,7 @@ File > Build Settings... > PC, Mac & Linux Standalone
 
 Scenes In Build: Scenes/Scene1
 
-![Build Settings](README_Images/Build Settings.png)
+![Build Settings](README_Images/BuildSettings.png)
 
 Build in `Roll-a-Ball/Builds`
 
