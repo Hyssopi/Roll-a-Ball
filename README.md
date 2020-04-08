@@ -3,7 +3,7 @@ Roll-a-Ball Unity tutorial from:
 
 https://learn.unity.com/project/roll-a-ball-tutorial
 
-![splash](README Images/Game001.png)
+![splash](README_Images/Game001.png)
 
 ## Prerequisites
 (None)
@@ -13,7 +13,7 @@ File > Build Settings... > PC, Mac & Linux Standalone
 
 Scenes In Build: Scenes/Scene1
 
-![splash](README Images/Build Settings.png)
+![Build Settings](README_Images/Build Settings.png)
 
 Build in `Roll-a-Ball/Builds`
 
