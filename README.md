@@ -5,6 +5,8 @@ https://learn.unity.com/project/roll-a-ball-tutorial
 
 ![splash](README_Images/Game001.png)
 
+Unity version: 2018.4.20f1
+
 ## Prerequisites
 (None)
 

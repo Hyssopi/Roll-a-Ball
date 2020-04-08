@@ -38,7 +38,7 @@ public class PlayerController : MonoBehaviour
     }
   }
 
-  void UpdateCountText()
+  private void UpdateCountText()
   {
     countText.text = "Count: " + count.ToString();
     if (count >= 12)
